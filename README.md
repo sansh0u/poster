@@ -1,6 +1,24 @@
 # **1.Data**
 
  All genome files were obtained from NCBI.
+| Species               | Sex Determination | NCBI Accession       |
+|-----------------------|-------------------|----------------------|
+| *Luffia ferchaultella*     | Z0                | GCA_949709985.1       |
+| *Luffia ferchaultella1*    | Z0                | GCA_949710065.1       |
+| *Taleporia tubulosa*       | Z0/ZZ             | GCA_964330275.1       |
+| *Pachythelia villosella*   | Z0/ZZ             | GCA_964291025.1       |
+| *Tischeria ekebladella*    | ZW/ZZ             | GCA_965234195.1       |
+| *Bombyx mori*              | ZW/ZZ             | GCA_030269925.2       |
+
+And I compared Luffia ferchaultella and L. ferchaultella1 with each of four outgroup species (Taleporia tubulosa, Pachythelia villosella, Tischeria ekebladella, Bombyx mori) in separate 3-species McDonald–Kreitman tests.
+
+| Group | Species 1                  | Species 2                    | Species 3                  |
+|-------|----------------------------|------------------------------|----------------------------|
+| G1    | *Luffia ferchaultella*     | *Luffia ferchaultella1*      | *Taleporia tubulosa*       |
+| G2    | *Luffia ferchaultella*     | *Luffia ferchaultella1*      | *Pachythelia villosella*   |
+| G3    | *Luffia ferchaultella*     | *Luffia ferchaultella1*      | *Tischeria ekebladella*    |
+| G4    | *Luffia ferchaultella*     | *Luffia ferchaultella1*      | *Bombyx mori*              |
+
 
 # **2.Method**
 
