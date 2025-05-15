@@ -30,4 +30,4 @@ python test1.py --dir your_dircrtion --out mkt.tsv
    
 6. Using RStudio to filter the mkt results. Delete all genes without GO function，Positively selected genes were filtered based on the criteria: α > 0, NI < 1, and Fisher test p-value < 0.05. Negative selected genes were filtered based on the criteria: α < 0, NI > 1, and Fisher test p-value < 0.05.
 
-7. The positive selection gene was used as the target gene, and all orthogonal genes were used as background genes. RStudio was used to perform GO functional analysis. The negative selection gene was analyzed in the same way.
+7. The positive selection gene was used as the target gene, and all orthogonal genes were used as background genes. RStudio was used to perform GO term analysis. The negative selection gene was analyzed in the same way.
